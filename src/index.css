@@ -1,0 +1,12 @@
+.navbar {
+  text-align: center;
+  display: block !important;
+}
+.backgroundchange {
+  position: absolute;
+    top: 76px;
+    left: 369px;
+    width: 296px;
+   
+  /* opacity: 0.9 !important; */
+}
